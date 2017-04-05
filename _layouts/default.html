@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>{{ page.title }}</title>
-		<link rel="stylesheet" type="text/css" href="/css/style.css">
+		<link href="{{ "/css/main.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}" type="text/css" rel="stylesheet">
 		{% include analytics.html %}
 	</head>
 	<body>

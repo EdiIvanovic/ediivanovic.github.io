@@ -1,3 +1,5 @@
 name: Edi Ivanovic — Personal Site
 markdown: kramdown
 permalink: /blog/:title
+include:
+  - "_img"

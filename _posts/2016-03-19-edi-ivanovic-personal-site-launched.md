@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Edi Ivanovic Personal Site
+title: Edi Ivanovic Personal Site Launched
 date: '2016-03-19'
 ---
 

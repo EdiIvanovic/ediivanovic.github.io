@@ -3,6 +3,8 @@ layout: post
 title: Edi Ivanovic Personal Site Launched
 date: '2016-03-19'
 ---
+
+
 # Heading 1
 
 ## Heading 2
@@ -13,11 +15,6 @@ date: '2016-03-19'
 
 ![Profile picture]({{ site.url }}/assets/img/11165220_10206701622398829_2447083155606416138_n.jpg?raw=true)
 
-Powered by 
-<a href="https://jekyllrb.com">Jekyll</a>
+Powered by
 
-
-
-<img src="/uploads/2017/04/08/edx_logo_200x200-1.png" style="float: none;">
-
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/QI2I-o0pg-4" frameborder="0" allowfullscreen="" async="" preload=""></iframe>
+<a href="https://jekyllrb.com">Jekyll</a><iframe width="100%" height="auto" src="https://www.youtube.com/embed/QI2I-o0pg-4" frameborder="0" allowfullscreen="" async="" preload=""></iframe>

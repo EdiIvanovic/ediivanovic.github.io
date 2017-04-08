@@ -3,8 +3,6 @@ layout: post
 title: Edi Ivanovic Personal Site Launched
 date: '2016-03-19'
 ---
-
-
 # Heading 1
 
 ## Heading 2
@@ -20,4 +18,6 @@ Powered by
 
 
 
-<img src="/uploads/2017/04/08/edx_logo_200x200-1.png" style="float: none;"><iframe width="100%" height="auto" src="https://www.youtube.com/embed/QI2I-o0pg-4" frameborder="0" allowfullscreen="" async="" preload=""></iframe>
+<img src="/uploads/2017/04/08/edx_logo_200x200-1.png" style="float: none;">
+
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/QI2I-o0pg-4" frameborder="0" allowfullscreen="" async="" preload=""></iframe>
